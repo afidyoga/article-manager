@@ -1,4 +1,4 @@
-# Article Manager - Complete Skeleton
+# Article Manager
 
 This project is a full frontend skeleton for the Home Test (User + Admin) built with Next.js (App Router), TailwindCSS, axios, react-hook-form + zod, and json-server for local mock API.
 
