@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Teknologi"
+    },
+    {
+      "id": 2,
+      "name": "Kesehatan"
+    },
+    {
+      "id": 3,
+      "name": "Ekonomi"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Intro Next.js",
+      "excerpt": "Ringkasan Next.js",
+      "content": "Konten lengkap Next.js",
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Teknologi"
+      },
+      "created_at": "2025-09-01"
+    },
+    {
+      "id": 2,
+      "title": "Sehat di Era Modern",
+      "excerpt": "Ringkasan kesehatan",
+      "content": "Konten lengkap kesehatan",
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Kesehatan"
+      },
+      "created_at": "2025-08-20"
+    },
+    {
+      "id": 3,
+      "title": "Pasar Modal 2025",
+      "excerpt": "Ringkasan ekonomi",
+      "content": "Konten lengkap ekonomi",
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Ekonomi"
+      },
+      "created_at": "2025-07-15"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "name": "Normal User",
+      "email": "user@example.com",
+      "role": "user",
+      "password": "user123"
+    }
+  ]
+}
